@@ -1,0 +1,116 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: #f4f4f4;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+
+}
+.pragraphy{
+    background-color: #424040;
+    width: 70%;
+    color: white;
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px 15px;
+    border: 1px rgb(172, 167, 167) solid;
+    border-radius: 12px;
+
+}
+.pragraphy h1, ,.pragraphy2 h1{
+    font-weight: 800px;
+    color: rgb(43, 1, 67);
+    letter-spacing: 10px;
+}
+.pragraphy2{
+
+    width: 70%;
+    color: rgb(33, 12, 12);
+    margin: auto;
+    margin-top: 10px;
+    padding: 20px 15px;
+    border: 1px rgb(172, 167, 167) dotted;
+    border-radius: 12px;
+}
+.categories{
+width: 80%;
+color: black;
+padding: 20px 10px;
+margin: auto;
+margin-top: 20px;
+border: 1px rgb(172, 167, 167) dotted;
+border-radius: 12px;
+margin-bottom: 50px;
+}
+.categories h2{
+text-align: center;
+}
+.categories ul{
+    list-style: none;
+
+}
+.categories li{
+    padding-bottom: 10px;
+    border-bottom: 2px #909090 dotted ;
+}
+
+a{
+    text-decoration: none;
+   color: #000;
+}
+a:hover{
+    color: blue;
+}
+a:active{
+    color: rgb(2, 87, 2);
+}
+.form-group{
+    border: 1px #dcdcdc solid;
+    border-radius: 10px;
+    background-color: #095560;
+    color: white;
+    padding: 12px;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 20px;
+    position: relative;
+    box-shadow: #095560 10px 10px 10px;
+}
+.form-group label{
+    display: block;
+    font-size: 19px;
+}
+.form-group input{
+    width: 80%;
+    padding: 10px;
+    margin: 5px 0px;
+    border: 1px gainsboro solid;
+    border-radius: 7px;
+}
+button{
+    width: 20%;
+    padding: 9px;
+    margin-left: 10px;
+    border: 1px gainsboro solid;
+    border-radius: 5px;
+    margin-top: 5px;
+    background-color: #f4f4f4;
+    color: blue;
+    font-size: 20px;
+    
+}
+.para{
+    margin-bottom: 20px;
+    width: 30%;
+    background-color: #f4f4f4;
+    padding: 5px 10px;
+    float: left;
+    color: #000;
+    margin: 0px 5px;
+    margin-bottom: 20px;
+    border: 1px gainsboro solid;
+    border-radius: 5px;
+    box-shadow: #dbd2d2 10px 10px 10px;
+}
